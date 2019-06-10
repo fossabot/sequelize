@@ -11,6 +11,7 @@
 [![License](https://img.shields.io/npm/l/sequelize.svg?maxAge=2592000?style=plastic)](https://github.com/sequelize/sequelize/blob/master/LICENSE)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 [![Greenkeeper badge](https://badges.greenkeeper.io/sequelize/sequelize.svg)](https://greenkeeper.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAndrejJanoga%2Fsequelize.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAndrejJanoga%2Fsequelize?ref=badge_shield)
 
 Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, read replication and more.
 
@@ -86,3 +87,7 @@ If you have any security issue to report, contact project maintainers privately.
 - [English v4](http://docs.sequelizejs.com) (OFFICIAL)
 - [中文文档 v4](https://github.com/demopark/sequelize-docs-Zh-CN) (UNOFFICIAL)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAndrejJanoga%2Fsequelize.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAndrejJanoga%2Fsequelize?ref=badge_large)
